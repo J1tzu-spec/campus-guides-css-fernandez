@@ -1,8 +1,7 @@
 body{
     font-family: 'times new roman',Times, serif;
     color: #333333;
-    background-color: #0800fd;
-    padding: 24px;
+    background-color: #FDF8F0;
 
 }
 
@@ -21,8 +20,8 @@ h3 {
 
 .tip {  
     background-color: #FFF4CC;
-      padding: 16px;
-    border: 2px solid #E0A800;
+    padding: 16px;
+    border: 2px solid #C24E1C;
     margin: 24px 0;
 }
 
